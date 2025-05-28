@@ -1,10 +1,10 @@
 # automl_tutorial_mgroup
 
 
-Part A
-1- open the google colab file 
-2- go to 'File' -> 'Save a copy in drive'
-3- click 'connect' upper right corner
+Part A   
+1- open the google colab file   
+2- go to 'File' -> 'Save a copy in drive'  
+3- click 'connect' upper right corner  
 https://colab.research.google.com/drive/1cFR4n7N0WxUI2vtQiEzjbEzbgULWXmfI?usp=sharing
 
 Part B
