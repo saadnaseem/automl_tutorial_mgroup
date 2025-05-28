@@ -1,13 +1,13 @@
 # automl_tutorial_mgroup
 
 
-Part A   
+Part A: California housing dataset and Autogluon      
 1- open the google colab file   
 2- go to 'File' -> 'Save a copy in drive'  
 3- click 'connect' upper right corner  
 https://colab.research.google.com/drive/1cFR4n7N0WxUI2vtQiEzjbEzbgULWXmfI?usp=sharing
 
-Part B
+Part B: California housing dataset and TabPFN  
 https://colab.research.google.com/drive/1Mbkvk2egLQkVN6qCimvhIDCSyrX1OWxj?usp=sharing
 
 List of models
