@@ -1,9 +1,3 @@
-3- click 'connect' upper right corner  
-Script: [https://colab.research.google.com/drive/1cFR4n7N0WxUI2vtQiEzjbEzbgULWXmfI?usp=sharing](https://colab.research.google.com/drive/1VnQN9RvokqOZ1Ncu5g4448Ifdl3hVRRl?usp=sharing)   
-autogluon: https://auto.gluon.ai/    
-
-Part B: California housing dataset and TabPFN  
-Script: https://colab.research.google.com/drive/1Mbkvk2egLQkVN6qCimvhIDCSyrX1OWxj?usp=sharing     
 
 
 
@@ -29,7 +23,7 @@ A hands-on guide using [AutoGluon](https://auto.gluon.ai/), an open-source AutoM
 
 ### 📄 Instructions:
 1. Open this Google Colab notebook:  
-   [Tutorial Link](https://colab.research.google.com/drive/1cFR4n7N0WxUI2vtQiEzjbEzbgULWXmfI?usp=sharing)
+   [Tutorial Link](https://colab.research.google.com/drive/1VnQN9RvokqOZ1Ncu5g4448Ifdl3hVRRl?usp=sharing)
 2. Go to `File` → `Save a copy in Drive`
 3. Click `Connect` (upper right corner) and start running cells
 
@@ -79,4 +73,14 @@ pip install tabpfn
 |-----------|--------------|------------------------------------|
 | AutoGluon | Regression   | Fast, interpretable, ensemble-based|
 | TabPFN    | Regression   | Fast transformer, few-shot learning|
+
+
+
+Miscl
+3- click 'connect' upper right corner  
+Script: [https://colab.research.google.com/drive/1cFR4n7N0WxUI2vtQiEzjbEzbgULWXmfI?usp=sharing](https://colab.research.google.com/drive/1VnQN9RvokqOZ1Ncu5g4448Ifdl3hVRRl?usp=sharing)   
+autogluon: https://auto.gluon.ai/    
+
+Part B: California housing dataset and TabPFN  
+Script: https://colab.research.google.com/drive/1Mbkvk2egLQkVN6qCimvhIDCSyrX1OWxj?usp=sharing     
 
